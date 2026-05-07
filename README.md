@@ -265,14 +265,37 @@ Built from real enterprise policies used in consulting engagements.
 
 # 📦 10. Deliverables
 
-This project includes:
+---
 
-- 10+ ISO 27001 Security Policies  
-- ISO Annex A Mapping  
-- Governance Structure  
-- Risk-Based Policy Implementation  
-- Policy Versioning Table  
-- Roles & Responsibilities Matrix  
+# 📁 Repository Structure
+
+```text
+ISO27001-Policy-Suite
+│
+├── docs
+│
+├── mappings
+│   └── annex-a-control-mapping.md
+│
+├── policies
+│   ├── access-control-policy.md
+│   └── incident-response-policy.md
+│
+├── templates
+│
+└── README.md
+```
+
+---
+
+# 📌 Key Governance Deliverables
+
+| Deliverable | Purpose |
+|---|---|
+| Access Control Policy | Identity and access governance |
+| Incident Response Policy | Incident governance and escalation |
+| Annex A Mapping | ISO control traceability |
+| Governance Documentation | Audit and compliance support |
 
 ---
 
